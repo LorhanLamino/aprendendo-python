@@ -4,11 +4,12 @@ idade = 27
 aprendendo = True
 altura = 1.85
 
+# Tipos de variáveis
 print(type(nome))
 print(type(idade))
 print(type(aprendendo))
 print(type(altura))
 
-idade = 30
-
-print(type(idade))
+#Python é case-sensitive
+animal = "cachorro"
+Animal = "cachorro"
